@@ -1,6 +1,6 @@
-# HRMS - Human Resource Management System
+# TimePay - Web Based Payroll Management System
 
-A comprehensive HRMS solution built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring modern UI/UX design and complete HR functionality.
+A comprehensive Payroll solution built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring modern UI/UX design and complete HR functionality.
 
 ## 🚀 Features
 
